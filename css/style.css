@@ -459,6 +459,7 @@
 }
 
 .cookie-wrapper {
+    text-align: center;
     position: fixed;
     bottom: 0px;
     right: 0;
